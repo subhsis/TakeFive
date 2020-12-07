@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#fff">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+    <RelativeLayout
+        android:layout_width="360dp"
+        android:layout_height="230dp"
+        android:layout_centerHorizontal="true"
+        android:background="#151c25">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/circularimage"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/user"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/user_account"
+        android:layout_width="290dp"
+        android:layout_height="400dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:background="#fff"
+        android:visibility="visible">
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
+            android:hint="@string/name"
+            android:textSize="18sp"
+            android:singleLine="true"
+            android:textColor="#000"
+            android:background="@drawable/edittextuser"
+            />
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/name"
+            android:layout_marginTop="15dp"
+            android:hint="@string/email"
+            android:singleLine="true"
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:background="@drawable/edittextuser"/>
+        <EditText
+            android:id="@+id/phone"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/email"
+            android:layout_marginTop="15dp"
+            android:singleLine="true"
+            android:hint="@string/phone"
+            android:textSize="18sp"
+            android:background="@drawable/edittextuser"
+            android:textColor="#000"
+
+            />
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:hint="@string/passworduser"
+            android:singleLine="true"
+            android:background="@drawable/edittextuser"
+            android:layout_below="@+id/phone"
+            android:layout_marginTop="15dp"
+            android:textSize="18sp"
+            android:textColor="#000"
+            />
+        <Button
+            android:id="@+id/save"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:text="@string/save"
+            android:layout_below="@id/password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/buttonback"
+            android:textColor="#fff"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/user_details"
+            android:layout_width="290dp"
+            android:layout_height="400dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="180dp"
+            android:background="#fff"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="80dp"
+                android:hint="@string/name"
+                android:textSize="18sp"
+                android:singleLine="true"
+                android:textColor="#000"
+                android:background="@drawable/edittextuser"
+                />
+            <TextView
+                android:id="@+id/useremail"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/username"
+                android:layout_marginTop="15dp"
+                android:hint="@string/email"
+                android:singleLine="true"
+                android:textSize="18sp"
+                android:textColor="#000"
+                android:background="@drawable/edittextuser"/>
+            <TextView
+                android:id="@+id/userphone"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/useremail"
+                android:layout_marginTop="15dp"
+                android:singleLine="true"
+                android:hint="@string/phone"
+                android:textSize="18sp"
+                android:background="@drawable/edittextuser"
+                android:textColor="#000"
+                />
+
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+
+</ScrollView>

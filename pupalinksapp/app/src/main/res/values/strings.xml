@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PUPEX3</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="login">LOGIN</string>
+    <string name="pupalinklogo">pupalinklogo</string>
+    <string name="usericon">usericon</string>
+    <string name="passwordicon">passwordicon</string>
+    <string name="pupalogo">pupalogo</string>
+    <string name="home">HOME</string>
+    <string name="video">VIDEO</string>
+    <string name="music">MUSIC</string>
+    <string name="document">DOCUMENT</string>
+    <string name="more">MORE</string>
+    <string name="animated_film">Animated_film</string>
+    <string name="audio_em">Audio_em</string>
+    <string name="skip">skip</string>
+    <string name="musicaudio">Music</string>
+    <string name="click_to_play_music">Click to play Music</string>
+    <string name="save">SAVE</string>
+    <string name="passworduser">Password</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="films">Films</string>
+    <string name="music_video">MUSIC VIDEOS</string>
+    <string name="film">FILMS</string>
+    <string name="morehome">More</string>
+    <string name="videohome">VIDEO</string>
+</resources>

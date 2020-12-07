@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 12 18:28:29 IST 2019
+0.baseType=DIRECTORY
+0.base=/home/pupex/AndroidStudioProjects/pupalinksapp/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+0.path=sonarbangla.pdf
+0.set=ASSET
+count=1

@@ -1,0 +1,4 @@
+#Wed Jun 12 18:03:56 IST 2019
+base.0=/home/pupex/AndroidStudioProjects/pupalinksapp/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

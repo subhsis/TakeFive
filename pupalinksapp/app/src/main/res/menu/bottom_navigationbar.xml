@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/video"
+        android:title="@string/video"
+        android:icon="@drawable/ic_video_library_black"/>
+    <item
+        android:id="@+id/audio"
+        android:icon="@drawable/ic_queue_music_black"
+        android:title="@string/music"/>
+    <item
+        android:id="@+id/document"
+        android:title="@string/document"
+        android:icon="@drawable/ic_document"/>
+    <item
+        android:id="@+id/more"
+        android:title="@string/more"
+        android:icon="@drawable/ic_more_black"/>
+
+
+</menu>

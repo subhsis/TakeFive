@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e4be68d202156dc23d01148a2af73564/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/24803938ae5a5bf50d2366e4ed12b034/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/9d6c9b934143afcf1660b6279d8a50b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:extension-ima:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/extension-ima-2.8.4.aar/f629ada2e8f9106b27e48e53db7a3b35/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.0.0-beta.5.aar/294962ffc7d14deeea7abe2b6afcc80c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.8.2.aar/c3f13b4200859f376f386ca54a337cb0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/4c51ad353954d67b8af8f7723775fe72/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/76b296bc6f05e5dca186a4beb1ceecf3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/be70acd85ad2872004e823d52ebd3d6f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c90cb013c5825d7afc379b89a806ab8f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6becca5f72152d9cdc85bef774366f8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.4.aar/f9914871f590bcdd57e1ff096d532655/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2f45d7e0ac04245c2dc5b8271b863694/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ab2271be30f68af2f43b07c17bfbf0d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/bfb8b7702846e739108c5e60e1e290c0/AndroidManifest.xml:2:1-13:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.19.aar/6cc39fb8d31173323274e01ffa6eba4b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/0d9a04b274df64cae4d702e94c5ff24e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.4.aar/600ee7816d2c6ecce5bf5ab7ee612c7c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.4.aar/882e8ca753eb371d0dbce03367cdbaed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.4.aar/5d2ed9ae2be366dd0862b6860da5977f/AndroidManifest.xml:17:1-26:12
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/circularimageview-3.2.0.aar/2d028281f63b3e94a685683fb46b5878/AndroidManifest.xml:2:1-11:12
+MERGED from [com.danikula:videocache:2.7.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/videocache-2.7.1.aar/20b5ec1d4d4579a1312bb2bf44b16d59/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.volley:volley:1.1.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/f449d4a6275f8a212359549a5abe42b8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.0.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/edbb2cd4ceea5e68334636d4f28bfcbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/36b496952a8248b33227c8080853dce1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/134c188b769d7bbaf761a1fa0175baca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8ed8ce5470bd32a71e8f8f02b768b1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/408958ec3971e8ba6ddff5af4a6aecd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/223bee590072bc997a4605d68db32ed5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/f0b206d36b97cf00b890f2d54e169f24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0f2bc6f010e76441ec66ec01850272c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/71740c4dd9f032980d60815f7ffdf304/AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/relinker-1.3.1.aar/44282874623f972595a7689cdc680998/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e3589ecc33ac6811caa59a7ab1036e0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cc46cf790b9b7746f12db1460a2a8541/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:8:5-32:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/76b296bc6f05e5dca186a4beb1ceecf3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/76b296bc6f05e5dca186a4beb1ceecf3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/be70acd85ad2872004e823d52ebd3d6f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/be70acd85ad2872004e823d52ebd3d6f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c90cb013c5825d7afc379b89a806ab8f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c90cb013c5825d7afc379b89a806ab8f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/bfb8b7702846e739108c5e60e1e290c0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/bfb8b7702846e739108c5e60e1e290c0/AndroidManifest.xml:11:5-20
+MERGED from [com.danikula:videocache:2.7.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/videocache-2.7.1.aar/20b5ec1d4d4579a1312bb2bf44b16d59/AndroidManifest.xml:12:5-20
+MERGED from [com.danikula:videocache:2.7.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/videocache-2.7.1.aar/20b5ec1d4d4579a1312bb2bf44b16d59/AndroidManifest.xml:12:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/f449d4a6275f8a212359549a5abe42b8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/f449d4a6275f8a212359549a5abe42b8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/36b496952a8248b33227c8080853dce1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/36b496952a8248b33227c8080853dce1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/71740c4dd9f032980d60815f7ffdf304/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/71740c4dd9f032980d60815f7ffdf304/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cc46cf790b9b7746f12db1460a2a8541/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cc46cf790b9b7746f12db1460a2a8541/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.pupalinksapp.Musicvideo
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:15:9-48
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:15:19-45
+activity#com.example.pupalinksapp.Film
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:16:9-42
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:16:19-39
+activity#com.example.pupalinksapp.DocumentActivity
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:17:19-51
+activity#com.example.pupalinksapp.Audioplayer
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:18:9-49
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:18:19-46
+activity#com.example.pupalinksapp.Videoplay
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:19:9-21:62
+	android:configChanges
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:21:13-59
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:20:13-38
+activity#com.example.pupalinksapp.Home
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:22:9-42
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:22:19-39
+activity#com.example.pupalinksapp.MainActivity
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:27:27-74
+service#com.example.pupalinksapp.Audioplayerservece
+ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml:31:18-52
+uses-sdk
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e4be68d202156dc23d01148a2af73564/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/e4be68d202156dc23d01148a2af73564/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/24803938ae5a5bf50d2366e4ed12b034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/24803938ae5a5bf50d2366e4ed12b034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/9d6c9b934143afcf1660b6279d8a50b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/9d6c9b934143afcf1660b6279d8a50b6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-ima:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/extension-ima-2.8.4.aar/f629ada2e8f9106b27e48e53db7a3b35/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-ima:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/extension-ima-2.8.4.aar/f629ada2e8f9106b27e48e53db7a3b35/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.0.0-beta.5.aar/294962ffc7d14deeea7abe2b6afcc80c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.0.0-beta.5.aar/294962ffc7d14deeea7abe2b6afcc80c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.8.2.aar/c3f13b4200859f376f386ca54a337cb0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.8.2.aar/c3f13b4200859f376f386ca54a337cb0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/4c51ad353954d67b8af8f7723775fe72/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/4c51ad353954d67b8af8f7723775fe72/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/76b296bc6f05e5dca186a4beb1ceecf3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/76b296bc6f05e5dca186a4beb1ceecf3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/be70acd85ad2872004e823d52ebd3d6f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/be70acd85ad2872004e823d52ebd3d6f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c90cb013c5825d7afc379b89a806ab8f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c90cb013c5825d7afc379b89a806ab8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6becca5f72152d9cdc85bef774366f8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6becca5f72152d9cdc85bef774366f8d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.4.aar/f9914871f590bcdd57e1ff096d532655/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.4.aar/f9914871f590bcdd57e1ff096d532655/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2f45d7e0ac04245c2dc5b8271b863694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/2f45d7e0ac04245c2dc5b8271b863694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ab2271be30f68af2f43b07c17bfbf0d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/ab2271be30f68af2f43b07c17bfbf0d7/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/bfb8b7702846e739108c5e60e1e290c0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/bfb8b7702846e739108c5e60e1e290c0/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.19.aar/6cc39fb8d31173323274e01ffa6eba4b/AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.19.aar/6cc39fb8d31173323274e01ffa6eba4b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/0d9a04b274df64cae4d702e94c5ff24e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/0d9a04b274df64cae4d702e94c5ff24e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.4.aar/600ee7816d2c6ecce5bf5ab7ee612c7c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.4.aar/600ee7816d2c6ecce5bf5ab7ee612c7c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.4.aar/882e8ca753eb371d0dbce03367cdbaed/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.4.aar/882e8ca753eb371d0dbce03367cdbaed/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.4.aar/5d2ed9ae2be366dd0862b6860da5977f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.4.aar/5d2ed9ae2be366dd0862b6860da5977f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/circularimageview-3.2.0.aar/2d028281f63b3e94a685683fb46b5878/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:3.2.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/circularimageview-3.2.0.aar/2d028281f63b3e94a685683fb46b5878/AndroidManifest.xml:7:5-9:41
+MERGED from [com.danikula:videocache:2.7.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/videocache-2.7.1.aar/20b5ec1d4d4579a1312bb2bf44b16d59/AndroidManifest.xml:8:5-10:41
+MERGED from [com.danikula:videocache:2.7.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/videocache-2.7.1.aar/20b5ec1d4d4579a1312bb2bf44b16d59/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/f449d4a6275f8a212359549a5abe42b8/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/f449d4a6275f8a212359549a5abe42b8/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.0.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/edbb2cd4ceea5e68334636d4f28bfcbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/edbb2cd4ceea5e68334636d4f28bfcbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/36b496952a8248b33227c8080853dce1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/36b496952a8248b33227c8080853dce1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/134c188b769d7bbaf761a1fa0175baca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/134c188b769d7bbaf761a1fa0175baca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8ed8ce5470bd32a71e8f8f02b768b1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/8ed8ce5470bd32a71e8f8f02b768b1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/408958ec3971e8ba6ddff5af4a6aecd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/408958ec3971e8ba6ddff5af4a6aecd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/223bee590072bc997a4605d68db32ed5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/223bee590072bc997a4605d68db32ed5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/f0b206d36b97cf00b890f2d54e169f24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/f0b206d36b97cf00b890f2d54e169f24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0f2bc6f010e76441ec66ec01850272c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0f2bc6f010e76441ec66ec01850272c6/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/71740c4dd9f032980d60815f7ffdf304/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/71740c4dd9f032980d60815f7ffdf304/AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids:relinker:1.3.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/relinker-1.3.1.aar/44282874623f972595a7689cdc680998/AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/relinker-1.3.1.aar/44282874623f972595a7689cdc680998/AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e3589ecc33ac6811caa59a7ab1036e0a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/e3589ecc33ac6811caa59a7ab1036e0a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cc46cf790b9b7746f12db1460a2a8541/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/cc46cf790b9b7746f12db1460a2a8541/AndroidManifest.xml:20:5-44
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/4c51ad353954d67b8af8f7723775fe72/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		ADDED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/subhasi391gmailcom/AndroidStudioProjects/pupalinksapp/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.exoplayer:extension-ima:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/extension-ima-2.8.4.aar/f629ada2e8f9106b27e48e53db7a3b35/AndroidManifest.xml:24:5-26:65
+	android:value
+		ADDED from [com.google.android.exoplayer:extension-ima:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/extension-ima-2.8.4.aar/f629ada2e8f9106b27e48e53db7a3b35/AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from [com.google.android.exoplayer:extension-ima:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/extension-ima-2.8.4.aar/f629ada2e8f9106b27e48e53db7a3b35/AndroidManifest.xml:25:9-54
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.4.aar/5d2ed9ae2be366dd0862b6860da5977f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.4] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.4.aar/5d2ed9ae2be366dd0862b6860da5977f/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/subhasi391gmailcom/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/8a50549309e30784209a57f9d7aa1055/AndroidManifest.xml:30:13-65
